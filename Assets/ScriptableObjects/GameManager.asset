@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ed7e79617c1e454eb9d37acbc8d073d, type: 3}
+  m_Name: GameManager
+  m_EditorClassIdentifier: 
+  gameOverSO: {fileID: 11400000, guid: 6b2ccd80125995041b8334182a83ed64, type: 2}
+  sceneLoader: {fileID: 11400000, guid: 024a4d45f3b21c346aba3509645e8785, type: 2}
+  enemyReferenceSO: {fileID: 11400000, guid: 18fce79a234422542b79bf040d49774e, type: 2}
+  playerData: {fileID: 11400000, guid: 2e527012561c13c409b0072bbf8d1ff4, type: 2}

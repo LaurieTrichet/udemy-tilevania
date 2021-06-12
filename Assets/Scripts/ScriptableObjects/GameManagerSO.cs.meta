@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2ed7e79617c1e454eb9d37acbc8d073d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameOverSO: {fileID: 11400000, guid: 6b2ccd80125995041b8334182a83ed64, type: 2}
+  - sceneLoader: {fileID: 11400000, guid: 024a4d45f3b21c346aba3509645e8785, type: 2}
+  - enemyReferenceSO: {fileID: 11400000, guid: 18fce79a234422542b79bf040d49774e, type: 2}
+  - playerData: {fileID: 11400000, guid: 2e527012561c13c409b0072bbf8d1ff4, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
